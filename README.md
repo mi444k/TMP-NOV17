@@ -1,1 +1,1 @@
-# Exampole project
+# Example project
